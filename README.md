@@ -16,7 +16,7 @@ I'm a data analyst intern who thrives on turning complex, messy datasets into cl
 
 My focus is on building intuitive, user-friendly dashboards, automating repetitive tasks to free up time for high-level problem solving, and creating robust quantitative models for future planning.
 
-I live for that "aha!" moment when the numbers reveal a completely new opportunity. Off the clock, I'm usually out for a run, exploring new tech, or relaxing with a good movie (and definitely rating it on Letterboxd).
+Off the clock, I'm usually out for a run, exploring new tech, or relaxing with a good movie (and definitely rating it on Letterboxd).
 
 ### [🏆 Check Out My Full Portfolio Website](https://Fernnandagomes.github.io/)
       
