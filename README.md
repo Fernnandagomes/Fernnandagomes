@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me 
-I'm a data analyst intern who thrives on turning complex, messy datasets into clear stories and actionable business insights. 
+I'm a data analyst intern who turnes complex datasets into actionable business insights. 
 
 My focus is on building intuitive, user-friendly dashboards, automating repetitive tasks to free up time for high-level problem solving, and creating robust quantitative models for future planning.
 
