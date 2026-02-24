@@ -18,8 +18,7 @@ My focus is on building intuitive, user-friendly dashboards, automating repetiti
 
 Off the clock, I'm usually out for a run, exploring new tech, or relaxing with a good movie (and definitely rating it on Letterboxd).
 
-### [🏆 Check Out My Full Portfolio Website](https://Fernnandagomes.github.io/)
-      
+
 ---
 
 ## 🔭 What I'm Currently Working On 
