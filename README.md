@@ -10,30 +10,19 @@
 </p>
 
 ---
-
-## 🚀 About Me 
-I'm a data analyst intern who turnes complex datasets into actionable business insights. 
-
-My focus is on building intuitive, user-friendly dashboards, automating repetitive tasks to free up time for high-level problem solving, and creating robust quantitative models for future planning.
-
-Off the clock, I'm usually out for a run, exploring new tech, or relaxing with a good movie (and definitely rating it on Letterboxd).
-
-
----
-
-## 🔭 What I'm Currently Working On 
+## Currently Working On 
 
 - **Project A:** Developing "Diligence AI", an automated agent using Power Automate and Copilot Studio to streamline supplier due diligence via API integrations.
-- **Project B:** Building an automated data pipeline to extract, store, and analyze Steam data utilizing Python and SQL.
+- **Project B:** Building a project using vision computing for predict when a customer will leave the line, and open another cashier.
 
-## 🌱 Currently Learning 
+## Currently Learning 
 
-- Advanced SQL querying and database architecture.
-- Python scripting for seamless API integration and workflow automation.
+- Vision Computing
+- ML
 
 ---
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 #### Data Analysis & Visualization
 <p>
