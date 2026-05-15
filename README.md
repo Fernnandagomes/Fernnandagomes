@@ -1,7 +1,10 @@
 ## Fernnanda Gomes 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A8D658&center=true&vCenter=true&width=500&lines=Cientist+Data+%7C+Business+Intelligence; alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A8D658&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Business+Intelligence"
+    alt="Typing SVG"
+  />
 </div>
 
 <p align="center">
