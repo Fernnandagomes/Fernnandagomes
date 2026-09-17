@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A8D658&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Business+Intelligence"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A8D658&center=true&vCenter=true&width=500&lines=Automation+Engineer+%7C+AI+%26+RPA"
     alt="Typing SVG"
   />
 </div>
@@ -13,35 +13,41 @@
 </p>
 
 ---
-## Currently Working On 
+## 🚀 Currently Working On 
 
-- **Project A:** Developing "Diligence AI", an automated agent using Power Automate and Copilot Studio to streamline supplier due diligence via API integrations.
-- **Project B:** Building a project using vision computing for predict when a customer will leave the line, and open another cashier.
+- **Diligence AI** — Low-code agent (Power Automate + Copilot Studio) automating supplier due diligence through API integrations.
+- **Queue Vision** — Computer vision model that predicts checkout abandonment in real time to trigger opening a new cashier.
+- **Job Alert Bot** — Python + Power Automate pipeline that monitors a job board's API daily and emails new matching postings.
 
-## Currently Learning 
+## 📚 Currently Learning 
 
-- Vision Computing
-- ML
+- Python (Playwright, FastAPI, RabbitMQ, Docker)
+- Copilot Studio / Agentic AI
 
 ---
 
 ## Technical Skillset
 
-#### Data Analysis & Visualization
+#### Automation & Low-Code
+<p>
+  <img src="https://img.shields.io/badge/Power_Automate-111111?style=for-the-badge&logo=powerautomate&logoColor=A8D658" alt="Power Automate Skill Badge">
+  <img src="https://img.shields.io/badge/Copilot_Studio-111111?style=for-the-badge&logoColor=A8D658" alt="Copilot Studio Skill Badge">
+</p>
+
+#### Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=A8D658" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=A8D658" alt="R Skill Badge">
+</p>
+
+#### Data & Visualization
 <p>
   <img src="https://img.shields.io/badge/Postgres-111111?style=for-the-badge&logo=postgresql&logoColor=A8D658" alt="Postgres Skill Badge">
   <img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=A8D658" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel_Expert-111111?style=for-the-badge&logo=microsoftexcel&logoColor=A8D658" alt="Excel Skill Badge">
 </p>
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=A8D658" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=A8D658" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Power_Automate-111111?style=for-the-badge&logo=powerautomate&logoColor=A8D658" alt="Power Automate Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
+#### Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB_Testing-111111?style=for-the-badge&logoColor=A8D658" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Cluster_Analysis-111111?style=for-the-badge&logoColor=A8D658" alt="Cluster Analysis Skill Badge">
